@@ -2,8 +2,9 @@ import React from 'react'
 const Categories = () => {
     const data = [
         {
-            cateImg: "./images/category/cat1.png",
-            cateName: "Fashion",
+            cateImg:'../images/category/cat1.png',
+            
+            cateName: "Fashion"
         },
         // {
         //     cateImg: "./images/category/cat2.jpg",
