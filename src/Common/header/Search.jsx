@@ -1,6 +1,6 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
-import logo from '../../Components/images/logo2.svg'
+import logo from '../../images/logo2.svg'
 
 
 const Search = () => {

@@ -1,14 +1,15 @@
 import React from 'react'
 import Categories from './Categories'
-import SlideCard from './SlideCard'
-
+// import SlideCard from './SlideCard'
+import Slider from './Slider'
+import './home.css'
 const Home = () => {
   return (
     <>
       <section className="home">
         <div className="container d_flex">
           <Categories />
-          <SlideCard />
+          <Slider />
         </div>
       </section>
     </>
